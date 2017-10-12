@@ -1,0 +1,5 @@
+# user added
+*.csv
+
+# IPython Notebook
+.ipynb_checkpoints
